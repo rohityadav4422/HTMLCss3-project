@@ -1,0 +1,42 @@
+#main{
+    height: 600px;
+    width: 400px;
+    border: 1px solid;
+    margin: auto;
+    color: white;
+    background-image: radial-gradient( circle 610px at 5.2% 51.6%,  rgba(5,8,114,1) 0%, rgba(7,3,53,1) 97.5% );
+}
+img{margin-top: 20px;
+    margin-left: 20px;
+    height: 70px;
+    width: 70px;   
+border-radius: 50%;
+}
+#heading{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    margin-bottom: 15px;
+}
+#in1{
+    margin-left: 10px;
+}
+#in2{
+margin-left: 10px;
+}
+#in3{
+margin-left: 40px;
+}
+#info input{ 
+    height: 35px;
+    width: 150px;
+    border-radius: 20px;
+    font-size: 14px;
+    background-color: rgba(54, 218, 247, 0.644);
+    border-color:  rgba(54, 218, 247, 0.644);;
+    color: white;
+    margin-top: 18px;
+    margin-left: 125px;
+    box-shadow: 3px 3px 3px rgba(241, 245, 244, 0.986);
+    
+}
